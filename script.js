@@ -109,7 +109,7 @@ body {
 }
 
 .certificate {
-    background-image: url(./background.jpeg);
+    background-image: url(./swcdharmapuri.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 80%;
